@@ -1,7 +1,7 @@
 # 🎓 CS Core Subjects for Placements
 
-This repository contains my year-long preparation for core computer science subjects needed for **campus placements** and **tech interviews**.  
-I dedicate **30 minutes every day** to studying the following:
+This repository contains my structured one-year preparation plan for **core Computer Science subjects** that are essential for **campus placements** and **technical interviews**.  
+I dedicate **30 minutes every day** to mastering:
 
 - 🖥️ Operating Systems (OS)
 - 🗃️ Database Management Systems (DBMS)
@@ -11,9 +11,15 @@ I dedicate **30 minutes every day** to studying the following:
 
 ---
 
-## 📅 Daily Plan (30 Minutes Per Day)
+## 📅 Overall Progress
 
-Check out the complete [Daily Tracker Plan](./README.md#✅-daily-study-plan--checklist)
+| Subject | Progress |
+|---------|----------|
+| 🖥️ OS | ![OS](https://img.shields.io/badge/Progress-0%25-red) |
+| 🗃️ DBMS | ![DBMS](https://img.shields.io/badge/Progress-0%25-red) |
+| 🌐 CN | ![CN](https://img.shields.io/badge/Progress-0%25-red) |
+| 🧾 Compiler | ![COMPI](https://img.shields.io/badge/Progress-0%25-red) |
+| 🛠️ System Design | ![SD](https://img.shields.io/badge/Progress-0%25-lightgrey) |
 
 ---
 
@@ -25,8 +31,8 @@ Each subject contains:
 - ❓ MCQs / Practice Questions
 - 🔗 Resource Links (Videos + PDFs)
 
-| Subject | Folder Link |
-|---------|-------------|
+| Subject | Folder |
+|---------|--------|
 | 🖥️ OS | [OS](./OS) |
 | 🗃️ DBMS | [DBMS](./DBMS) |
 | 🌐 CN | [CN](./CN) |
@@ -35,83 +41,16 @@ Each subject contains:
 
 ---
 
-## 🎯 Goals
+## ✅ Daily Study Plan – Checklist (30 Minutes/Day)
 
-- Build a strong foundation in CS core subjects
-- Prepare for theory-based interviews
-- Revise topics from GATE & placement perspective
-- Solve MCQs & PYQs for confidence
-
----
-
-## ✅ Daily Study Checklist
+> 🧠 Total Duration: 365 Days  
+> 📌 Topics grouped by days for consistent daily learning
 
 <details>
-<summary><strong>OS (Day 1–52)</strong></summary>
-
-- [ ] Day 1–3: Introduction, OS Functions  
-- [ ] Day 4–6: Types of OS  
-...
-</details>
-
-<details>
-<summary><strong>DBMS (Day 53–102)</strong></summary>
-
-- [ ] Day 53–55: DBMS vs RDBMS  
-- [ ] Day 56–58: ER Model  
-...
-</details>
-
-_...Continue for CN, Compiler, and System Design._
-
----
-
-## 📚 Resources I'm Using
-
-- [Gate Smashers YouTube](https://youtube.com/c/GateSmasher)
-- [Jenny’s Lectures](https://www.youtube.com/c/JennyslecturesCSITNETJRF)
-- [Neso Academy](https://www.youtube.com/@NesoAcademy)
-- [GeeksforGeeks](https://www.geeksforgeeks.org/)
-- [LeetCode Interview Tags (OS/DBMS)](https://leetcode.com/problemset/all/)
-
----
-
-## 🔗 License
-
-MIT
-
----
-
-> 📆 Last updated: July 2025  
-> 🏁 Target completion: June 2026  
-> ⭐ Star this repo if you find the structure helpful!
-
-
-# 🎓 CS Core Subject Daily Tracker (30 Minutes/Day – 1 Year Plan)
-
-This repo tracks my daily learning progress for core CS subjects important for campus placements – **Operating Systems, DBMS, Computer Networks, Compiler Design**, and **System Design**. I study for 30 minutes every day.
-
----
-
-## 📅 Progress Overview
-
-| Subject          | Progress |
-|------------------|----------|
-| 🖥️ Operating Systems | ![OS](https://img.shields.io/badge/0%25-red) |
-| 🗃️ DBMS              | ![DBMS](https://img.shields.io/badge/0%25-red) |
-| 🌐 Computer Networks | ![CN](https://img.shields.io/badge/0%25-red) |
-| 🧾 Compiler Design   | ![COMPI](https://img.shields.io/badge/0%25-red) |
-| 🛠️ System Design     | ![SystemDesign](https://img.shields.io/badge/0%25-lightgrey) |
-
----
-
-## ✅ Daily Study Plan – Checklist
-
-<details>
-<summary><strong>🖥️ Operating Systems (Day 1–Day 52)</strong></summary>
+<summary><strong>🖥️ Operating Systems (Day 1–52)</strong></summary>
 
 - [ ] Day 1–3: Introduction, Functions of OS  
-- [ ] Day 4–6: Types of OS (Batch, Time-Sharing, Real-Time)  
+- [ ] Day 4–6: Types of OS  
 - [ ] Day 7–9: Process Concept, PCB, States  
 - [ ] Day 10–12: Threads vs Processes  
 - [ ] Day 13–15: CPU Scheduling: FCFS, SJF  
@@ -131,10 +70,8 @@ This repo tracks my daily learning progress for core CS subjects important for c
 
 </details>
 
----
-
 <details>
-<summary><strong>🗃️ Database Management Systems (Day 53–Day 102)</strong></summary>
+<summary><strong>🗃️ Database Management Systems (Day 53–102)</strong></summary>
 
 - [ ] Day 53–55: DBMS vs RDBMS  
 - [ ] Day 56–58: ER Model: Entities, Attributes  
@@ -156,10 +93,8 @@ This repo tracks my daily learning progress for core CS subjects important for c
 
 </details>
 
----
-
 <details>
-<summary><strong>🌐 Computer Networks (Day 103–Day 147)</strong></summary>
+<summary><strong>🌐 Computer Networks (Day 103–147)</strong></summary>
 
 - [ ] Day 103–105: Basics, Types of Networks  
 - [ ] Day 106–108: ISO-OSI Model Overview  
@@ -179,31 +114,76 @@ This repo tracks my daily learning progress for core CS subjects important for c
 
 </details>
 
----
+<details>
+<summary><strong>🧾 Compiler Design (Day 148–195)</strong></summary>
+
+- [ ] Day 148–150: Compiler Phases Overview  
+- [ ] Day 151–153: Lexical Analysis, Tokens  
+- [ ] Day 154–156: Finite Automata (DFA, NFA)  
+- [ ] Day 157–159: Syntax Analysis, Parse Trees  
+- [ ] Day 160–162: LL(1), LR Parsers  
+- [ ] Day 163–165: First and Follow  
+- [ ] Day 166–168: Syntax-Directed Translation  
+- [ ] Day 169–171: Semantic Analysis  
+- [ ] Day 172–174: Intermediate Code Generation  
+- [ ] Day 175–177: Three Address Code  
+- [ ] Day 178–180: Symbol Table  
+- [ ] Day 181–183: Code Optimization  
+- [ ] Day 184–186: Code Generation  
+- [ ] Day 187–189: Run-Time Environments  
+- [ ] Day 190–195: Revision + MCQs  
+
+</details>
 
 <details>
-<summary><strong>🧾 Compiler Design (Coming next...)</strong></summary>
+<summary><strong>🛠️ System Design Basics (Day 196–219)</strong></summary>
 
-_(Days 148–210 and beyond will cover Compiler Design, System Design, and Revisions. Will be added soon!)_
+- [ ] Day 196–198: Client-Server Architecture  
+- [ ] Day 199–201: Load Balancer  
+- [ ] Day 202–204: Caching Strategies  
+- [ ] Day 205–207: Database Replication & Sharding  
+- [ ] Day 208–210: REST APIs  
+- [ ] Day 211–213: Message Queues (Intro)  
+- [ ] Day 214–216: CDN, Hashing  
+- [ ] Day 217–219: Case Study – URL Shortener  
+
+</details>
+
+<details>
+<summary><strong>🔁 Final Revision & Practice (Day 220–365)</strong></summary>
+
+- [ ] Day 220–234: OS Revision + MCQs  
+- [ ] Day 235–249: DBMS Revision + MCQs  
+- [ ] Day 250–264: CN Revision + MCQs  
+- [ ] Day 265–279: Compiler Revision + MCQs  
+- [ ] Day 280–294: System Design Revision  
+- [ ] Day 295–310: PYQs Practice  
+- [ ] Day 311–330: Mock Tests + Flashcards  
+- [ ] Day 331–350: Recap Notes + Mistakes  
+- [ ] Day 351–365: Final Review Sprint  
 
 </details>
 
 ---
 
-## 🧠 Resources I'm Using
+## 📚 Resources I'm Using
 
-- 📺 [Gate Smashers](https://www.youtube.com/c/GateSmasher)
-- 📺 [Jenny's Lectures CS/IT NET&JRF](https://www.youtube.com/channel/UCx3sbvR3L3Ok7FbYrKMUjcg)
-- 📺 [Neso Academy](https://www.youtube.com/@NesoAcademy)
-- 📄 Previous Year Questions (TCS, Infosys, Wipro, etc.)
-- 💻 LeetCode DBMS/CN/OS tagged problems
-
----
-
-## 🎯 Goal
-
-> 📆 Finish this full schedule by: `DD-MM-2026`  
-> 🏁 Be placement-ready with solid CS fundamentals!
+- [Gate Smashers YouTube](https://youtube.com/c/GateSmasher)
+- [Jenny’s Lectures CS/IT NET&JRF](https://www.youtube.com/c/JennyslecturesCSITNETJRF)
+- [Neso Academy](https://www.youtube.com/@NesoAcademy)
+- [GeeksforGeeks](https://www.geeksforgeeks.org/)
+- [LeetCode DBMS/CN/OS problems](https://leetcode.com/problemset/all/?topicSlugs=operating-system)
 
 ---
 
+## 🎯 Goals
+
+- Build strong CS fundamentals
+- Be confident in theory-based interviews
+- Solve MCQs, PYQs, and real interview questions
+- Track daily progress toward placement readiness
+
+---
+
+> 🏁 **Target Completion**: June 2026  
+> ⭐ Star this repo if it helps you stay consistent!
