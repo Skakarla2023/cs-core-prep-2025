@@ -1,3 +1,92 @@
+# 🎓 CS Core Subjects for Placements
+
+This repository contains my year-long preparation for core computer science subjects needed for **campus placements** and **tech interviews**.  
+I dedicate **30 minutes every day** to studying the following:
+
+- 🖥️ Operating Systems (OS)
+- 🗃️ Database Management Systems (DBMS)
+- 🌐 Computer Networks (CN)
+- 🧾 Compiler Design
+- 🛠️ System Design (Basics)
+
+---
+
+## 📅 Daily Plan (30 Minutes Per Day)
+
+Check out the complete [Daily Tracker Plan](./README.md#✅-daily-study-plan--checklist)
+
+---
+
+## 📂 Subject Folders
+
+Each subject contains:
+- 📄 Notes
+- 📌 Cheat Sheets
+- ❓ MCQs / Practice Questions
+- 🔗 Resource Links (Videos + PDFs)
+
+| Subject | Folder Link |
+|---------|-------------|
+| 🖥️ OS | [OS](./OS) |
+| 🗃️ DBMS | [DBMS](./DBMS) |
+| 🌐 CN | [CN](./CN) |
+| 🧾 Compiler | [Compiler](./Compiler) |
+| 🛠️ System Design | [SystemDesign](./SystemDesign) |
+
+---
+
+## 🎯 Goals
+
+- Build a strong foundation in CS core subjects
+- Prepare for theory-based interviews
+- Revise topics from GATE & placement perspective
+- Solve MCQs & PYQs for confidence
+
+---
+
+## ✅ Daily Study Checklist
+
+<details>
+<summary><strong>OS (Day 1–52)</strong></summary>
+
+- [ ] Day 1–3: Introduction, OS Functions  
+- [ ] Day 4–6: Types of OS  
+...
+</details>
+
+<details>
+<summary><strong>DBMS (Day 53–102)</strong></summary>
+
+- [ ] Day 53–55: DBMS vs RDBMS  
+- [ ] Day 56–58: ER Model  
+...
+</details>
+
+_...Continue for CN, Compiler, and System Design._
+
+---
+
+## 📚 Resources I'm Using
+
+- [Gate Smashers YouTube](https://youtube.com/c/GateSmasher)
+- [Jenny’s Lectures](https://www.youtube.com/c/JennyslecturesCSITNETJRF)
+- [Neso Academy](https://www.youtube.com/@NesoAcademy)
+- [GeeksforGeeks](https://www.geeksforgeeks.org/)
+- [LeetCode Interview Tags (OS/DBMS)](https://leetcode.com/problemset/all/)
+
+---
+
+## 🔗 License
+
+MIT
+
+---
+
+> 📆 Last updated: July 2025  
+> 🏁 Target completion: June 2026  
+> ⭐ Star this repo if you find the structure helpful!
+
+
 # 🎓 CS Core Subject Daily Tracker (30 Minutes/Day – 1 Year Plan)
 
 This repo tracks my daily learning progress for core CS subjects important for campus placements – **Operating Systems, DBMS, Computer Networks, Compiler Design**, and **System Design**. I study for 30 minutes every day.
