@@ -36,8 +36,8 @@ Each subject contains:
 | 🖥️ OS | [OS](./OS) |
 | 🗃️ DBMS | [DBMS](./DBMS) |
 | 🌐 CN | [CN](./CN) |
-| 🧾 Compiler | [Compiler](./Compiler) |
-| 🛠️ System Design | [SystemDesign](./SystemDesign) |
+| 🧾 Compiler | [Compiler](./Compiler_Design) |
+| 🛠️ System Design | [SystemDesign](./System_Design) |
 
 ---
 
